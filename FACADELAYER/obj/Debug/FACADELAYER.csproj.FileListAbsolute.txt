@@ -1,0 +1,7 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\bin\Debug\FACADELAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\obj\Debug\FACADELAYER.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\obj\Debug\FACADELAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\FACADELAYER\obj\Debug\FACADELAYER.pdb

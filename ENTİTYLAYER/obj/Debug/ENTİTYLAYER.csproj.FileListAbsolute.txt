@@ -1,0 +1,5 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.pdb

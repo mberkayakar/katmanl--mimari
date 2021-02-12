@@ -1,0 +1,9 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\BUSİNESSLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\BUSİNESSLAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\obj\Debug\BUSİNESSLAYER.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\obj\Debug\BUSİNESSLAYER.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Çok Katmanlı Mimari Ödevi\Berkay_Akar_172114007\BUSİNESSLAYER\obj\Debug\BUSİNESSLAYER.pdb
